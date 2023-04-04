@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @docteurevapeur (she/her)
 - 👀 I’m interested in cryptography, chemistry, and mathematics
-- 🌱 I’m currently learning python, javascript, LaTeX
+- 🌱 I’m currently learning python (manim and numpy), C#, LaTeX, GDscript
 - 💞️ I’m looking to collaborate on not much really
 - 📫 How to reach me: @le_docteurvapeur:matrix.org
 
